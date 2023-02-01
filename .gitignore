@@ -1,4 +1,9 @@
-/node_modules
+package-lock.json
+node_modules/*
+.idea/*
+
+images/*
+!images/.gitkeep
 npm-debug.log
 .DS_Store
 /*.env
